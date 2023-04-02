@@ -96,3 +96,7 @@ class TwoLayerNet:
         self.params["W2"] = params["W2"]
         self.params["b1"] = params["b1"]
         self.params["b2"] = params["b2"]
+
+        self.layers["Affine1"] = Affine(self.params["W1"], self.params["b1"])
+        self.layers["Relu"] = Relu()
+        self.layers["Affine2"] = Affine(self.params["W2"], self.params["b2"])
