@@ -1,5 +1,5 @@
 # TwoLayerNet
-Neural Network and Deep Learning Homework 1
+Neural Network and Deep Learning Homework 1.
 
 # Running Experiments
 To run this program, run ```python main.py```. 
