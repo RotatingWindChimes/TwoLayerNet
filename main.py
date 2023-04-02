@@ -1,6 +1,6 @@
 from mnist import load_mnist
 from model import TwoLayerNet
-from train import train_model, test_model
+from train import train_model
 
 
 def main():
