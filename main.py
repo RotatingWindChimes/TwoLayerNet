@@ -9,7 +9,7 @@ def main():
 
     # 可调超参数
     learning_rate = 0.1
-    weight_decay = 1.0
+    weight_decay = 2.0
     hidden_size = 100
 
     # 固定超参数
