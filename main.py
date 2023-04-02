@@ -31,11 +31,6 @@ def main():
     # 模型保存
     network.store()
 
-    # 加载模型并测试模型精度
-    network.load()
-    accuracy = test_model(model=network, batch_size=batch_size, data=x_test, label=t_test)
-    print(f"The current accuracy of the two layer network is {accuracy}.")
-
 
 if __name__ == '__main__':
     main()
