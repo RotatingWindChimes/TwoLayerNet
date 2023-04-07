@@ -4,7 +4,7 @@ Neural Network and Deep Learning Homework 1.
 # Running Experiments
 To run this program and train the model entirely, run ```python main.py```. (The current hyperparameters of the model have been set up.)
 
-To test the model parameter, download file ```model_parameters.pkl``` from https://pan.baidu.com/s/1fxfUzVhtnzkoz8H3ZElazQ?pwd=pimw (password: pimw) and put it in the same directory as ```main.py```, run ```test.py``` to get the accuracy on test dataset of the pre-trained model.
+To test the model parameter, download file ```model_parameters.pkl``` from https://pan.baidu.com/s/1ppY0v5hzlcW9xmLqIr2Q4w?pwd=r6wr (password: r6wr) and put it in the same directory as ```main.py```, run ```test.py``` to get the accuracy on test dataset of the pre-trained model.
 
 If you have trouble reproducing any results, please raise a GitHub issue with your logs and results. Otherwise, if you have success, please share your trained model weights with us and with the broader community!
 
